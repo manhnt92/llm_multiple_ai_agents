@@ -9,7 +9,6 @@ def main():
     #     process=Process.sequential,
     # )
     # # result = crew.kickoff(inputs={'topic': 'AI in healthcare'})
-    # result = crew.kickoff(inputs={'topic': 'Forecast in Ha Noi today'})
     # print(result)
 
     crew1 = Crew(
